@@ -11,3 +11,6 @@ const KEY_HASH =
   "0x4b09e658ed251bcafeebbc69400383d49f344ace09b9576fe248bb02c003fe9f";
 const FEE = ethers.utils.parseEther("0.0005");
 module.exports = { LINK_TOKEN, VRF_COORDINATOR, KEY_HASH, FEE };
+
+
+// graph init --contract-name RandomWinnerGame --product hosted-service oluwatobilobaoke/first-subgraph  --from-contract 0x72B53f4a8647B3AE179eC3D3a27b735Fb533924b  --abi ./abi.json --network mumbai graph
