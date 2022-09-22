@@ -1,4 +1,4 @@
-export const abi =[
+export const abi = [
   {
     "inputs": [
       {
@@ -269,4 +269,4 @@ export const abi =[
     "type": "receive"
   }
 ]
-export const RANDOM_GAME_NFT_CONTRACT_ADDRESS = "0x72B53f4a8647B3AE179eC3D3a27b735Fb533924b"
+export const RANDOM_GAME_NFT_CONTRACT_ADDRESS = "0xde84d8203a61e6D7b7847D91e9E6Ea6A69EDb667"
